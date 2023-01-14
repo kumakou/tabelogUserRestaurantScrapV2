@@ -1,0 +1,3 @@
+# tabelogUserRestaurantScrapV2
+tabelogUserRestaurantScrapのv2
+メモリー使用の削減をした
